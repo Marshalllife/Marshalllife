@@ -8,24 +8,24 @@ Hi, I’m **Destiny Marshall**—a **Full-Stack JavaScript Developer** passionat
 
 #### Frontend
 - ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)  
-  ![Progress](https://progress-bar.dev/60/?width=100&color=61DAFB&suffix=%25) **60%**
+  ![Progress](https://img.shields.io/badge/Progress-60%25-61DAFB?style=flat) **60%**
 - ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)  
-  ![Frontend](https://progress-bar.dev/75/?width=100&color=000000&suffix=%25) **Frontend: 75%**  
-  ![API](https://progress-bar.dev/100/?width=100&color=00CC00&suffix=%25) **API: 100%**
+  ![Frontend](https://img.shields.io/badge/Frontend-75%25-000000?style=flat) **Frontend: 75%**  
+  ![API](https://img.shields.io/badge/API-100%25-00CC00?style=flat) **API: 100%**
 
 #### Backend
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)  
-  ![Progress](https://progress-bar.dev/50/?width=100&color=339933&suffix=%25) **50%**
+  ![Progress](https://img.shields.io/badge/Progress-50%25-339933?style=flat) **50%**
 - ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)  
-  ![Progress](https://progress-bar.dev/50/?width=100&color=000000&suffix=%25) **50%**
+  ![Progress](https://img.shields.io/badge/Progress-50%25-000000?style=flat) **50%**
 
 #### Database
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)  
-  ![Progress](https://progress-bar.dev/60/?width=100&color=47A248&suffix=%25) **60%**
+  ![Progress](https://img.shields.io/badge/Progress-60%25-47A248?style=flat) **60%**
 
 #### Other
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)  
-  ![Progress](https://progress-bar.dev/30/?width=100&color=3776AB&suffix=%25) **30%**
+  ![Progress](https://img.shields.io/badge/Progress-30%25-3776AB?style=flat) **30%**
 
 ---
 
