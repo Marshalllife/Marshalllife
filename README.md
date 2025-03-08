@@ -40,7 +40,7 @@ Hi, I’m **Destiny Marshall**, passionate about creating solutions that scale. 
 - **[Ayetubot](https://t.me/ayetubot)**: Telegram bot using Next.js API.
 - **[Cryptonia](https://cryptoniacity.com)**: Crypto app on Telegram ([t.me/cryptoniacity](https://t.me/cryptoniacity)).
 - **[Raffledeck](https://raffledeck.com)**: Almost done, 80% ready.
-- **[Greetox](https://greetoxapp.vercel.app)**: Drew my first blood, first app when I started learning.
+- **[Greetox](https://greetoxapp.vercel.app)**: Drew my first blood, first app, first build, first served!
 - **Now Working On**: *Joblad* app, *Solana Scalping Bot*, *Signaceptor* for traders.
 ---
 
@@ -61,10 +61,12 @@ Hi, I’m **Destiny Marshall**, passionate about creating solutions that scale. 
 ---
 
 ### Beyond Coding 🫣
-- **Marketing**: Growth hack | Acqusition strategy.  
+- **Marketing**: Growth hack | Acquisition strategy.  
 - **Video Editing**: Increadible visuals that stand out.  
 - **Music (Rap & Singing)**: Traditional and crypto-themed tracks on [Spotify](https://open.spotify.com/artist/2h00H7s2YjKTM34NvIciPa).  
 - **Project Management**: Turning ideas into action.
+- **Ideator**: Think for a living.
+  
 ---
 
 
