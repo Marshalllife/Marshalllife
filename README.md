@@ -1,4 +1,4 @@
-# Destiny Marshall | Full-Stack Developer | Marke
+# Destiny Marshall | Full-Stack Developer | Marketing
 
 Hi, I’m **Destiny Marshall**, passionate about creating solutions that scale. I’m building **[MyDappr.io](https://mydappr.io)** to create platforms solving challenges faced by African people and its ecosystem. Someday, I will code the world.
 
