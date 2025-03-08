@@ -4,38 +4,37 @@ Hi, I’m **Destiny Marshall**, passionate about creating solutions that scale. 
 
 ---
 
-### My Skills
+### Skills 💻
 
-<div>
+<div align="center">
 <table>
   <tr>
     <td align="center">
       <strong>Frontend</strong><br>
-      <img src="https://img.shields.io/badge/React%20-%2065%25-61DAFB?style=flat&logo=react"  /><br><br>
-      <img src="https://img.shields.io/badge/Next.js%20Frontend%20-%2075%25-00CC00?style=flat&logo=next.js" /><br>
-      <img src="https://img.shields.io/badge/Next.js%20API%20-%2095%25-00CC00?style=flat&logo=next.js"  />
+      <img src="https://img.shields.io/badge/React%20-%2065%25-61DAFB?style=flat&logo=react" alt="React 65%" />   
+      <img src="https://img.shields.io/badge/Next.js%20Frontend%20-%2075%25-00CC00?style=flat&logo=next.js" alt="Next.js Frontend 75%" />   
     </td>
     <td align="center">
       <strong>Backend</strong><br>
-      <img src="https://img.shields.io/badge/Node.js%20-%2055%25-339933?style=flat&logo=node.js" /><br><br>
-      <img src="https://img.shields.io/badge/Express%20-%2055%25-339933?style=flat&logo=express" />
+      <img src="https://img.shields.io/badge/Node.js%20-%2055%25-339933?style=flat&logo=node.js" alt="Node.js 55%" />   
+      <img src="https://img.shields.io/badge/Express%20-%2055%25-339933?style=flat&logo=express" alt="Express 55%" />
+        <img src="https://img.shields.io/badge/Next.js%20API%20-%2095%25-00CC00?style=flat&logo=next.js" alt="Next.js API 95%" />
     </td>
   </tr>
   <tr>
-    <td align="center">
+      <td align="center">
       <strong>Database</strong><br>
-      <img src="https://img.shields.io/badge/MongoDB%20-%2060%25-47A248?style=flat&logo=mongodb"  />
+      <img src="https://img.shields.io/badge/MongoDB%20-%2070%25-47A248?style=flat&logo=mongodb" alt="MongoDB 70%" />     
     </td>
     <td align="center">
-      <strong>Other</strong><br>
-      <img src="https://img.shields.io/badge/Python%20-%2030%25-3776AB?style=flat&logo=python"  />
+      <strong> Other</strong><br>
+      <img src="https://img.shields.io/badge/Python%20-%2040%25-3776AB?style=flat&logo=python" alt="Python 40%" />
     </td>
   </tr>
 </table>
 </div>
 
 ---
-
 ### What I’m Building
 - **[MyDappr.io](https://mydappr.io)**: Platforms to help African people.
 - **[Ayetubot](https://t.me/ayetubot)**: Telegram bot using Next.js API.
@@ -43,6 +42,7 @@ Hi, I’m **Destiny Marshall**, passionate about creating solutions that scale. 
 - **[Raffledeck](https://raffledeck.com)**: Almost done, 80% ready.
 - **[Greetox](https://greetoxapp.vercel.app)**: Drew my first blood, first app when I started learning.
 - **Now Working On**: *Joblad* app, *Solana Scalping Bot*, *Signaceptor* for traders.
+---
 
 <div >
   <img src="https://img.shields.io/badge/Repos-28-26A69A?style=for-the-badge&labelColor=1A3C34" alt="28 Repos" /> &nbsp;&nbsp;
@@ -53,8 +53,10 @@ Hi, I’m **Destiny Marshall**, passionate about creating solutions that scale. 
 ---
 
 ### My GitHub Stats
-![Marshalllife's Stats](https://github-readme-stats.vercel.app/api?username=Marshalllife&show_icons=true&theme=radical&hide_border=true&count_private=true)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marshalllife&layout=compact&theme=radical&hide_border=true&count_private=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marshalllife&theme=monokai)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Marshalllife&theme=monokai)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marshalllife&theme=dark)
+![Commits](https://img.shields.io/github/commit-activity/y/Marshalllife/Marshalllife?color=26A69A)
 
 ---
 
