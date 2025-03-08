@@ -41,15 +41,15 @@ Hi, I’m **Destiny Marshall**—a Full-Stack JavaScript developer with a passio
 ---
 
 ### GitHub Insights
-![Marshallllife's Stats](https://github-readme-stats.vercel.app/api?username=Marshallllife&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&text_color=FFFFFF&title_color=00CC00)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marshallllife&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&text_color=FFFFFF&title_color=00CC00)
+![Marshallllife's Stats](https://github-readme-stats.vercel.app/api?username=Marshalllife&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&text_color=FFFFFF&title_color=00CC00)  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marshalllife&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&text_color=FFFFFF&title_color=00CC00)
 
 ---
 
 ### Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/destinymarshall)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/Marshallllife)  
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram)](https://t.me/Marshallllife)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/Marshalllife)  
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram)](https://t.me/Marshalllife)
 
 ---
 
