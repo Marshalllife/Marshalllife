@@ -49,13 +49,18 @@ Hi, I’m **Destiny Marshall**, passionate about crafting solutions that scale. 
 - **[Greetox](https://greetoxapp.vercel.app)**: Drew my first blood, first app when I started learning.
 - **Now Working On**: *Joblad* app, *Solana Scalping Bot*, *Signaceptor* for traders.
 
-["I have 28 repos, 6 public—most projects are private for now."](url)
+<div align="center">
+  <img src="https://img.shields.io/badge/Repos-28-26A69A?style=for-the-badge&labelColor=1A3C34" alt="28 Repos" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Public-6-26A69A?style=for-the-badge&labelColor=1A3C34" alt="6 Public" />
+  <br><br>
+  <em>"I have 28 repos, 6 public—most projects are private for now."</em>
+</div>
 
 ---
 
 ### My GitHub Stats
-![Marshalllife's Stats](https://github-readme-stats.vercel.app/api?username=Marshalllife&show_icons=true&theme=radical&hide_border=true&count_private=false)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marshalllife&layout=compact&theme=radical&hide_border=true&count_private=false)
+![Marshalllife's Stats](https://github-readme-stats.vercel.app/api?username=Marshalllife&show_icons=true&theme=radical&hide_border=true&count_private=true)  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marshalllife&layout=compact&theme=radical&hide_border=true&count_private=true)
 
 ---
 
