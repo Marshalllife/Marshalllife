@@ -38,6 +38,7 @@ Hi, I’m **Destiny Marshall**, passionate about creating solutions that scale. 
 ### What I’m Building
 - **[MyDappr.io](https://mydappr.io)**: Platforms to help African people.
 - **[Ayetubot](https://t.me/ayetubot)**: Telegram bot using Next.js API.
+- **[ZeroRead](https://zeroread.marshalllife.me/)**: zeroRead is your AI assistant to summarize long texts into short, clear insights..
 - **[Cryptonia](https://cryptoniacity.com)**: Crypto app on Telegram ([t.me/cryptoniacity](https://t.me/cryptoniacity)).
 - **[Raffledeck](https://raffledeck.com)**: Almost done, 80% ready.
 - **[Greetox](https://greetoxapp.vercel.app)**: Drew my first blood, first app, first build, first served!
