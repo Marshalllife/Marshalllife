@@ -1,6 +1,6 @@
 # Destiny Marshall | Full-Stack Developer | Marketing
 
-Hi, I’m **Destiny Marshall**, passionate about creating solutions that scale. I’m building **[MyDappr.io](https://mydappr.io)** to create platforms solving challenges faced by African people and its ecosystem. Someday, I will code the world.
+Hi, I’m **Destiny Marshall**, passionate about creating solutions that scale. I’m building **[MyDappr.io](https://mydappr.io)** to create platforms solving challenges faced by African people, its landscape and other emerging markets. Someday, I will code the world.
 
 ---
 
@@ -36,7 +36,7 @@ Hi, I’m **Destiny Marshall**, passionate about creating solutions that scale. 
 
 ---
 ### What I’m Building
-- **[MyDappr.io](https://mydappr.io)**: Platforms to help African people.
+- **[MyDappr.io](https://mydappr.io)**: Platforms to help African people and scale it technological infrastructure.
 - **[Ayetubot](https://t.me/ayetubot)**: Telegram bot using Next.js API.
 - **[ZeroRead](https://zeroread.marshalllife.me/)**: zeroRead is your AI assistant to summarize long texts into short, clear insights..
 - **[Cryptonia](https://cryptoniacity.com)**: Crypto app on Telegram ([t.me/cryptoniacity](https://t.me/cryptoniacity)).
