@@ -42,7 +42,6 @@ Hi, I’m **Destiny Marshall**, passionate about creating solutions that scale. 
 - **[Cryptonia](https://cryptoniacity.com)**: Crypto app on Telegram ([t.me/cryptoniacity](https://t.me/cryptoniacity)).
 - **[Raffledeck](https://raffledeck.com)**: Almost done, 80% ready.
 - **[Greetox](https://greetoxapp.vercel.app)**: Drew my first blood, first app, first build, first served!
-- **Now Working On**: *Joblad* app, *Solana Scalping Bot*, *Signaceptor* for traders.
 ---
 
 <div >
@@ -55,7 +54,6 @@ Hi, I’m **Destiny Marshall**, passionate about creating solutions that scale. 
 
 ### My GitHub Stats
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marshalllife&theme=monokai)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Marshalllife&theme=monokai)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marshalllife&theme=dark)
 ![Commits](https://img.shields.io/github/commit-activity/y/Marshalllife/Marshalllife?color=26A69A)
 
@@ -73,7 +71,7 @@ Hi, I’m **Destiny Marshall**, passionate about creating solutions that scale. 
 
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/destiny-e-marshall-a15726b0/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/destinyMlife)  
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram)](https://t.me/Marshalllife)
 
 ---
