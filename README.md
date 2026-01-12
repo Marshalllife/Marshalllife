@@ -4,44 +4,10 @@ Hi, I’m **Destiny Marshall**, passionate about creating solutions that scale. 
 
 ---
 
-### Skills 💻
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <strong>Frontend</strong><br>
-      <img src="https://img.shields.io/badge/React%20-%2065%25-61DAFB?style=flat&logo=react" alt="React 65%" />   
-      <img src="https://img.shields.io/badge/Next.js%20Frontend%20-%2075%25-00CC00?style=flat&logo=next.js" alt="Next.js Frontend 75%" />   
-    </td>
-    <td align="center">
-      <strong>Backend</strong><br>
-      <img src="https://img.shields.io/badge/Node.js%20-%2055%25-339933?style=flat&logo=node.js" alt="Node.js 55%" />   
-      <img src="https://img.shields.io/badge/Express%20-%2055%25-339933?style=flat&logo=express" alt="Express 55%" />
-        <img src="https://img.shields.io/badge/Next.js%20API%20-%2095%25-00CC00?style=flat&logo=next.js" alt="Next.js API 95%" />
-    </td>
-  </tr>
-  <tr>
-      <td align="center">
-      <strong>Database</strong><br>
-      <img src="https://img.shields.io/badge/MongoDB%20-%2070%25-47A248?style=flat&logo=mongodb" alt="MongoDB 70%" />     
-    </td>
-    <td align="center">
-      <strong> Other</strong><br>
-      <img src="https://img.shields.io/badge/Python%20-%2040%25-3776AB?style=flat&logo=python" alt="Python 40%" />
-    </td>
-  </tr>
-</table>
-</div>
 
 ---
 ### What I’m Building
 - **[MyDappr.io](https://mydappr.io)**: Platforms to help African people and scale it technological infrastructure.
-- **[Ayetubot](https://t.me/ayetubot)**: Telegram bot using Next.js API.
-- **[ZeroRead](https://zeroread.marshalllife.me/)**: zeroRead is your AI assistant to summarize long texts into short, clear insights..
-- **[Cryptonia](https://cryptoniacity.com)**: The immersive city on the bockchain - real life Oasis ([t.me/cryptoniacity](https://t.me/cryptoniacity)).
-- **[Raffledeck](https://raffledeck.com)**: Almost done, 80% ready.
-- **[Greetox](https://greetoxapp.vercel.app)**: Drew my first blood, first app, first build, first served!
 ---
 
 <div >
@@ -76,4 +42,4 @@ Hi, I’m **Destiny Marshall**, passionate about creating solutions that scale. 
 
 ---
 
-*"Still learning to code, but when I’m done, I will go ahead and code the world."*
+*"code the world."*
