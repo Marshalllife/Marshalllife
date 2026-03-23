@@ -1,13 +1,15 @@
-# Destiny Marshall | Full-Stack Developer | Marketing
+# Destiny Marshall | Full-Stack Developer | Marketing | Builder
 
-Hi, I’m **Destiny Marshall**, passionate about creating solutions that scale. I’m building **[MyDappr.io](https://mydappr.io)** to create platforms solving challenges faced by African people, its landscape and other emerging markets. Someday, I will code the world.
+Hi, I'm **Destiny Marshall** — I build platforms that help African people ship solutions to their own problems.  
+Running **[MyDappr.io](https://mydappr.io)** — a venture studio turning ideas from emerging markets into real products.  
+Someday, I will code the world.
 
 ---
 
 
 ---
-### What I’m Building
-- **[MyDappr.io](https://mydappr.io)**: Platforms to help African people and scale it technological infrastructure.
+### What I'm Building
+- **[MyDappr.io](https://mydappr.io)** — A venture studio helping African builders ship apps that solve real problems, at scale.
 ---
 
 <div >
@@ -26,11 +28,11 @@ Hi, I’m **Destiny Marshall**, passionate about creating solutions that scale. 
 ---
 
 ### Beyond Coding 🫣
-- **Marketing**: Growth hack | Acquisition strategy.  
-- **Video Editing**: Increadible visuals that stand out.  
-- **Music (Rap & Singing)**: Traditional and crypto-themed tracks on [Spotify](https://open.spotify.com/artist/2h00H7s2YjKTM34NvIciPa).  
-- **Project Management**: Turning ideas into action.
-- **Ideator**: Think for a living.
+- **Marketing**: Growth hacking | Acquisition strategy
+- **Video Editing**: Visuals that actually stand out
+- **Music (Rap & Singing)**: Traditional and crypto-themed tracks on [Spotify](https://open.spotify.com/artist/2h00H7s2YjKTM34NvIciPa)
+- **Project Management**: Turning ideas into shipped products
+- **Ideator**: Think for a living
   
 ---
 
